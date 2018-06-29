@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "MyTimer.h"
 //#include <Windows.h>
 
